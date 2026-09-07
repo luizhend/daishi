@@ -1,3 +1,5 @@
 # Daishi
-NixOs, to be used with Mari Host (or standalone)
-as a nix module
+Nix Module using playit and nix-minecraft to play Minecraft with friends
+
+
+created to be integrated with my personal Computer recipe (Mari)
