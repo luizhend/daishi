@@ -1,0 +1,5 @@
+[server]
+port=25565
+motd = "Daishi Server - eu e os casas"
+[playit]
+secret_path="/home/luizh/daishi/secret.toml"
